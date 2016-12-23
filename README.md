@@ -10,3 +10,8 @@ https://www.packtpub.com/web-development/restful-web-api-design-nodejs-second-ed
 * Content negotiation
 * What CORS is
 * API versioning
+
+### Specifying the Web API
+
+1. 公開する操作をHTTPメソッドとURIで定義する
+2. 適切なアプリケーションのデータフォーマットを決める
